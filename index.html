@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+<title>Catamount Arts — Movies</title>
+<style>
+  :root {
+    --bg: #0f1115;
+    --card: #1a1d24;
+    --text: #f2f2f2;
+    --muted: #9aa0ac;
+    --accent: #e8a33d;
+  }
+  @media (prefers-color-scheme: light) {
+    :root:not([data-theme="dark"]) {
+      --bg: #faf7f2;
+      --card: #ffffff;
+      --text: #1a1a1a;
+      --muted: #6b6b6b;
+      --accent: #b5651d;
+    }
+  }
+  * { box-sizing: border-box; }
+  html, body {
+    margin: 0;
+    height: 100%;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+  body {
+    padding: env(safe-area-inset-top, 0) 1rem env(safe-area-inset-bottom, 1rem);
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  header { padding: 1.5rem 0 0.5rem; }
+  h1 { font-size: 1.4rem; margin: 0 0 0.25rem; }
+  .subtitle { color: var(--muted); font-size: 0.9rem; margin: 0; }
+  .tabs {
+    display: flex;
+    gap: 0.5rem;
+    overflow-x: auto;
+    padding: 1rem 0;
+    scrollbar-width: none;
+  }
+  .tabs::-webkit-scrollbar { display: none; }
+  .tab {
+    flex: none;
+    padding: 0.5rem 0.9rem;
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--muted);
+    font-size: 0.85rem;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+  }
+  .tab.active {
+    color: var(--text);
+    border-color: var(--accent);
+    background: color-mix(in srgb, var(--accent) 15%, var(--card));
+  }
+  .day { display: none; padding-bottom: 2rem; }
+  .day.active { display: block; }
+  .movie {
+    background: var(--card);
+    border-radius: 12px;
+    padding: 0.9rem 1rem;
+    margin-bottom: 0.7rem;
+  }
+  .movie a { color: inherit; text-decoration: none; }
+  .movie h3 { margin: 0 0 0.3rem; font-size: 1.02rem; }
+  .movie .time { color: var(--accent); font-weight: 600; font-size: 0.9rem; }
+  .movie .runtime { color: var(--muted); font-size: 0.8rem; margin-left: 0.4rem; }
+  .empty, .status { color: var(--muted); padding: 2rem 0; text-align: center; }
+  footer { color: var(--muted); font-size: 0.75rem; text-align: center; padding: 1rem 0 2rem; }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🎬 Catamount Arts — Now Playing</h1>
+    <p class="subtitle">St. Johnsbury, VT · updated every 30 minutes</p>
+  </header>
+  <div id="tabs" class="tabs"></div>
+  <div id="days"></div>
+  <div id="status" class="status">Loading showtimes…</div>
+  <footer>Data scraped from catamountarts.org — showtimes can change; check their site before heading out.</footer>
+
+<script>
+async function load() {
+  const statusEl = document.getElementById("status");
+  try {
+    const res = await fetch("movies.json?_=" + Date.now());
+    const data = await res.json();
+
+    if (!data.days || data.days.length === 0) {
+      statusEl.textContent = "No upcoming film showtimes found right now.";
+      return;
+    }
+    statusEl.remove();
+
+    const tabsEl = document.getElementById("tabs");
+    const daysEl = document.getElementById("days");
+
+    data.days.forEach((day, i) => {
+      const tab = document.createElement("div");
+      tab.className = "tab" + (i === 0 ? " active" : "");
+      tab.textContent = i === 0 ? "Today" : day.label.split(",")[0];
+      tab.onclick = () => selectDay(i);
+      tabsEl.appendChild(tab);
+
+      const dayEl = document.createElement("div");
+      dayEl.className = "day" + (i === 0 ? " active" : "");
+      dayEl.id = "day-" + i;
+
+      const heading = document.createElement("p");
+      heading.className = "subtitle";
+      heading.style.margin = "0 0 0.75rem";
+      heading.textContent = day.label;
+      dayEl.appendChild(heading);
+
+      if (day.movies.length === 0) {
+        const empty = document.createElement("p");
+        empty.className = "empty";
+        empty.textContent = "Nothing scheduled.";
+        dayEl.appendChild(empty);
+      }
+
+      day.movies.forEach((movie) => {
+        const card = document.createElement("div");
+        card.className = "movie";
+        card.innerHTML =
+          '<a href="' + movie.url + '" target="_blank" rel="noopener">' +
+          '<h3>' + escapeHtml(movie.title) + '</h3>' +
+          '<span class="time">' + movie.time + '</span>' +
+          (movie.runtimeMinutes ? '<span class="runtime">' + movie.runtimeMinutes + ' min</span>' : '') +
+          '</a>';
+        dayEl.appendChild(card);
+      });
+
+      daysEl.appendChild(dayEl);
+    });
+  } catch (err) {
+    statusEl.textContent = "Couldn't load showtimes. Try again in a bit.";
+  }
+}
+
+function selectDay(i) {
+  document.querySelectorAll(".tab").forEach((el, idx) => el.classList.toggle("active", idx === i));
+  document.querySelectorAll(".day").forEach((el) => el.classList.toggle("active", el.id === "day-" + i));
+}
+
+function escapeHtml(str) {
+  return str.replace(/[&<>"']/g, (c) => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+load();
+</script>
+</body>
+</html>
