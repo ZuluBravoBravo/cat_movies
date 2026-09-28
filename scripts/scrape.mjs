@@ -46,6 +46,27 @@ function extractTitle(html) {
   return null;
 }
 
+// Grabs the plain-text "Location: <venue> <address> <city, state>" block
+// that appears on every show page, so we can tell St. Johnsbury shows apart
+// from touring shows (e.g. "Every Day: Big and Small" visits other towns).
+function extractLocationText(html) {
+  let idx = html.search(/>Location:</i);
+  if (idx < 0) idx = html.search(/\bLocation:/i);
+  if (idx < 0) return null;
+
+  const chunk = html.slice(idx, idx + 500);
+  const stopMatch = chunk.match(/Tickets:|Showtimes:|Director:|Rating:|Runtime:|Cast:|## ?Dates|Find Tickets/i);
+  const relevant = stopMatch ? chunk.slice(0, stopMatch.index) : chunk;
+  return decodeEntities(stripTags(relevant)).replace(/\s+/g, " ").trim();
+}
+
+function isStJohnsbury(locationText) {
+  // If we couldn't find a Location block at all, assume it's the main venue
+  // rather than silently dropping the show.
+  if (!locationText) return true;
+  return /st\.?\s*johnsbury/i.test(locationText);
+}
+
 function extractDates(html) {
   const idx = html.search(/>Dates</i);
   const section = idx >= 0 ? html.slice(idx) : html;
@@ -114,6 +135,10 @@ async function main() {
         const res = await fetch(detailUrl, { headers: { "user-agent": UA } });
         if (!res.ok) continue;
         const html = await res.text();
+
+        const locationText = extractLocationText(html);
+        if (!isStJohnsbury(locationText)) continue;
+
         const title = extractTitle(html) || slug;
         const runtimeMatch = html.match(/Runtime:\s*(\d+)\s*minutes/i);
         const dates = extractDates(html);
