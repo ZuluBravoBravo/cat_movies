@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T22:54:55.348Z",
+  "generatedAt": "2026-09-28T01:23:45.443Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -29,14 +29,6 @@
       "label": "Thursday, October 1",
       "movies": [
         {
-          "slug": "every-day-big-and-small-montpelier",
-          "title": "Every Day: Big and Small – Montpelier",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-montpelier/",
-          "dateKey": "2026-10-01",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        },
-        {
           "slug": "the-marching-band",
           "title": "The Marching Band",
           "url": "https://www.catamountarts.org/show/details/the-marching-band/",
@@ -50,14 +42,6 @@
       "date": "2026-10-02",
       "label": "Friday, October 2",
       "movies": [
-        {
-          "slug": "every-day-big-and-small-montpelier",
-          "title": "Every Day: Big and Small – Montpelier",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-montpelier/",
-          "dateKey": "2026-10-02",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        },
         {
           "slug": "the-marching-band",
           "title": "The Marching Band",
@@ -121,34 +105,6 @@
       ]
     },
     {
-      "date": "2026-10-05",
-      "label": "Monday, October 5",
-      "movies": [
-        {
-          "slug": "every-day-big-and-small-barton",
-          "title": "Every Day: Big and Small – Barton",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-barton/",
-          "dateKey": "2026-10-05",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        }
-      ]
-    },
-    {
-      "date": "2026-10-06",
-      "label": "Tuesday, October 6",
-      "movies": [
-        {
-          "slug": "every-day-big-and-small-st-albans",
-          "title": "Every Day: Big and Small – St. Albans",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-st-albans/",
-          "dateKey": "2026-10-06",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        }
-      ]
-    },
-    {
       "date": "2026-10-07",
       "label": "Wednesday, October 7",
       "movies": [
@@ -167,14 +123,6 @@
           "dateKey": "2026-10-07",
           "time": "7:00 pm",
           "runtimeMinutes": 103
-        },
-        {
-          "slug": "every-day-big-and-small-randolph",
-          "title": "Every Day: Big and Small – Randolph",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-randolph/",
-          "dateKey": "2026-10-07",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
         }
       ]
     },
@@ -183,28 +131,12 @@
       "label": "Thursday, October 8",
       "movies": [
         {
-          "slug": "lost-nation-williamsville",
-          "title": "Lost Nation – Williamsville",
-          "url": "https://www.catamountarts.org/show/details/lost-nation-williamsville/",
-          "dateKey": "2026-10-08",
-          "time": "6:30 pm",
-          "runtimeMinutes": null
-        },
-        {
           "slug": "the-marching-band",
           "title": "The Marching Band",
           "url": "https://www.catamountarts.org/show/details/the-marching-band/",
           "dateKey": "2026-10-08",
           "time": "7:00 pm",
           "runtimeMinutes": 103
-        },
-        {
-          "slug": "every-day-big-and-small-barre",
-          "title": "Every Day: Big and Small – Barre",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-barre/",
-          "dateKey": "2026-10-08",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
         }
       ]
     },
@@ -212,22 +144,6 @@
       "date": "2026-10-09",
       "label": "Friday, October 9",
       "movies": [
-        {
-          "slug": "every-day-big-and-small-brattleboro",
-          "title": "Every Day: Big and Small – Brattleboro",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-brattleboro/",
-          "dateKey": "2026-10-09",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-09",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        },
         {
           "slug": "stop-that-train",
           "title": "Stop! That! Train!",
@@ -249,30 +165,6 @@
           "dateKey": "2026-10-10",
           "time": "3:30 pm",
           "runtimeMinutes": 90
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-10",
-          "time": "5:00 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "every-day-big-and-small-rutland",
-          "title": "Every Day: Big and Small – Rutland",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-rutland/",
-          "dateKey": "2026-10-10",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-10",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
         },
         {
           "slug": "stop-that-train",
@@ -303,14 +195,6 @@
           "dateKey": "2026-10-11",
           "time": "3:30 pm",
           "runtimeMinutes": 90
-        },
-        {
-          "slug": "every-day-big-and-small-woodstock",
-          "title": "Every Day: Big and Small – Woodstock",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-woodstock/",
-          "dateKey": "2026-10-11",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
         }
       ]
     },
@@ -381,6 +265,42 @@
           "title": "Tony",
           "url": "https://www.catamountarts.org/show/details/tony/",
           "dateKey": "2026-10-17",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "label": "Sunday, October 18",
+      "movies": [
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-18",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-10-21",
+      "label": "Wednesday, October 21",
+      "movies": [
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-21",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-21",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
