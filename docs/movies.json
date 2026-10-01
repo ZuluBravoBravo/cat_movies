@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-09-30T20:31:31.525Z",
+  "generatedAt": "2026-10-01T00:20:37.145Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-09-30",
-      "label": "Wednesday, September 30",
-      "movies": [
-        {
-          "slug": "the-marching-band",
-          "title": "The Marching Band",
-          "url": "https://www.catamountarts.org/show/details/the-marching-band/",
-          "dateKey": "2026-09-30",
-          "time": "7:00 pm",
-          "runtimeMinutes": 103
-        }
-      ]
-    },
     {
       "date": "2026-10-01",
       "label": "Thursday, October 1",
@@ -167,6 +153,22 @@
           "runtimeMinutes": 90
         },
         {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-10",
+          "time": "5:00 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-10",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        },
+        {
           "slug": "stop-that-train",
           "title": "Stop! That! Train!",
           "url": "https://www.catamountarts.org/show/details/stop-that-train/",
@@ -181,6 +183,14 @@
       "label": "Sunday, October 11",
       "movies": [
         {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-11",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
+        {
           "slug": "stop-that-train",
           "title": "Stop! That! Train!",
           "url": "https://www.catamountarts.org/show/details/stop-that-train/",
@@ -194,6 +204,14 @@
       "date": "2026-10-14",
       "label": "Wednesday, October 14",
       "movies": [
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-14",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
         {
           "slug": "tony",
           "title": "Tony",
@@ -249,56 +267,6 @@
           "title": "Tony",
           "url": "https://www.catamountarts.org/show/details/tony/",
           "dateKey": "2026-10-17",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "label": "Sunday, October 18",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-18",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "label": "Wednesday, October 21",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-21",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-21",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-10-22",
-      "label": "Thursday, October 22",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-22",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
