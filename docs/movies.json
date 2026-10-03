@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-10-03T18:31:50.107Z",
+  "generatedAt": "2026-10-03T21:58:17.885Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-10-03",
-      "label": "Saturday, October 3",
-      "movies": [
-        {
-          "slug": "the-marching-band",
-          "title": "The Marching Band",
-          "url": "https://www.catamountarts.org/show/details/the-marching-band/",
-          "dateKey": "2026-10-03",
-          "time": "5:00 pm",
-          "runtimeMinutes": 103
-        },
-        {
-          "slug": "the-marching-band",
-          "title": "The Marching Band",
-          "url": "https://www.catamountarts.org/show/details/the-marching-band/",
-          "dateKey": "2026-10-03",
-          "time": "7:00 pm",
-          "runtimeMinutes": 103
-        }
-      ]
-    },
     {
       "date": "2026-10-04",
       "label": "Sunday, October 4",
@@ -245,15 +223,15 @@
       ]
     },
     {
-      "date": "2026-10-25",
-      "label": "Sunday, October 25",
+      "date": "2026-10-23",
+      "label": "Friday, October 23",
       "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-25",
-          "time": "1:30 pm",
+          "dateKey": "2026-10-23",
+          "time": "7:00 pm",
           "runtimeMinutes": 96
         }
       ]
@@ -262,14 +240,6 @@
       "date": "2026-10-28",
       "label": "Wednesday, October 28",
       "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-28",
-          "time": "1:30 pm",
-          "runtimeMinutes": 96
-        },
         {
           "slug": "late-fame",
           "title": "Late Fame",
@@ -361,6 +331,20 @@
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
           "dateKey": "2026-11-04",
+          "time": "7:00 pm",
+          "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thursday, November 5",
+      "movies": [
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-05",
           "time": "7:00 pm",
           "runtimeMinutes": 96
         }
@@ -467,22 +451,28 @@
       ]
     },
     {
-      "date": "2026-11-14",
-      "label": "Saturday, November 14",
+      "date": "2026-11-18",
+      "label": "Wednesday, November 18",
       "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-14",
-          "time": "5:00 pm",
+          "dateKey": "2026-11-18",
+          "time": "7:00 pm",
           "runtimeMinutes": 106
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-11-19",
+      "label": "Thursday, November 19",
+      "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-14",
+          "dateKey": "2026-11-19",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
