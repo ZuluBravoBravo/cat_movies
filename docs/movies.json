@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-10-04T20:20:06.883Z",
+  "generatedAt": "2026-10-04T23:27:21.155Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-10-04",
-      "label": "Sunday, October 4",
-      "movies": [
-        {
-          "slug": "every-day-big-and-small-st-johnsbury",
-          "title": "Every Day: Big and Small – St. Johnsbury",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-st-johnsbury/",
-          "dateKey": "2026-10-04",
-          "time": "7:00 pm",
-          "runtimeMinutes": null
-        }
-      ]
-    },
     {
       "date": "2026-10-07",
       "label": "Wednesday, October 7",
@@ -439,18 +425,12 @@
           "dateKey": "2026-11-14",
           "time": "5:00 pm",
           "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, November 19",
-      "movies": [
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-19",
+          "dateKey": "2026-11-14",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
