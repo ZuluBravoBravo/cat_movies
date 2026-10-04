@@ -1,19 +1,11 @@
 {
-  "generatedAt": "2026-10-04T17:16:55.928Z",
+  "generatedAt": "2026-10-04T20:20:06.883Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
       "date": "2026-10-04",
       "label": "Sunday, October 4",
       "movies": [
-        {
-          "slug": "every-day-big-and-small-st-johnsbury",
-          "title": "Every Day: Big and Small – St. Johnsbury",
-          "url": "https://www.catamountarts.org/show/details/every-day-big-and-small-st-johnsbury/",
-          "dateKey": "2026-10-04",
-          "time": "4:30 pm",
-          "runtimeMinutes": null
-        },
         {
           "slug": "every-day-big-and-small-st-johnsbury",
           "title": "Every Day: Big and Small – St. Johnsbury",
@@ -64,6 +56,14 @@
       "date": "2026-10-09",
       "label": "Friday, October 9",
       "movies": [
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-09",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        },
         {
           "slug": "stop-that-train",
           "title": "Stop! That! Train!",
@@ -171,50 +171,36 @@
       ]
     },
     {
-      "date": "2026-10-18",
-      "label": "Sunday, October 18",
+      "date": "2026-10-16",
+      "label": "Friday, October 16",
       "movies": [
         {
           "slug": "tony",
           "title": "Tony",
           "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-18",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "label": "Wednesday, October 21",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-21",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-21",
+          "dateKey": "2026-10-16",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
       ]
     },
     {
-      "date": "2026-10-22",
-      "label": "Thursday, October 22",
+      "date": "2026-10-17",
+      "label": "Saturday, October 17",
       "movies": [
         {
           "slug": "tony",
           "title": "Tony",
           "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-22",
+          "dateKey": "2026-10-17",
+          "time": "5:00 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-17",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
@@ -321,28 +307,22 @@
       ]
     },
     {
-      "date": "2026-11-04",
-      "label": "Wednesday, November 4",
+      "date": "2026-10-31",
+      "label": "Saturday, October 31",
       "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-04",
-          "time": "7:00 pm",
+          "dateKey": "2026-10-31",
+          "time": "5:00 pm",
           "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "label": "Thursday, November 5",
-      "movies": [
+        },
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-05",
+          "dateKey": "2026-10-31",
           "time": "7:00 pm",
           "runtimeMinutes": 96
         }
@@ -435,23 +415,29 @@
       ]
     },
     {
-      "date": "2026-11-18",
-      "label": "Wednesday, November 18",
+      "date": "2026-11-13",
+      "label": "Friday, November 13",
       "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "1:30 pm",
+          "dateKey": "2026-11-13",
+          "time": "7:00 pm",
           "runtimeMinutes": 106
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "label": "Saturday, November 14",
+      "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "7:00 pm",
+          "dateKey": "2026-11-14",
+          "time": "5:00 pm",
           "runtimeMinutes": 106
         }
       ]
