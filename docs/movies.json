@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T19:41:13.692Z",
+  "generatedAt": "2026-10-06T23:33:12.225Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -315,9 +315,31 @@
       ]
     },
     {
+      "date": "2026-11-06",
+      "label": "Friday, November 6",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-06",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "label": "Saturday, November 7",
       "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-07",
+          "time": "5:00 pm",
+          "runtimeMinutes": 106
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
@@ -409,34 +431,6 @@
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
           "dateKey": "2026-11-14",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-18",
-      "label": "Wednesday, November 18",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, November 19",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-19",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
