@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T09:24:02.803Z",
+  "generatedAt": "2026-10-08T16:46:55.135Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -149,38 +149,30 @@
       ]
     },
     {
-      "date": "2026-10-17",
-      "label": "Saturday, October 17",
+      "date": "2026-10-21",
+      "label": "Wednesday, October 21",
       "movies": [
         {
           "slug": "tony",
           "title": "Tony",
           "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-17",
-          "time": "5:00 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-17",
+          "dateKey": "2026-10-21",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
       ]
     },
     {
-      "date": "2026-10-23",
-      "label": "Friday, October 23",
+      "date": "2026-10-22",
+      "label": "Thursday, October 22",
       "movies": [
         {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-23",
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-22",
           "time": "7:00 pm",
-          "runtimeMinutes": 96
+          "runtimeMinutes": 106
         }
       ]
     },
@@ -288,6 +280,20 @@
           "url": "https://www.catamountarts.org/show/details/late-fame/",
           "dateKey": "2026-10-31",
           "time": "7:00 pm",
+          "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Sunday, November 1",
+      "movies": [
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-01",
+          "time": "1:30 pm",
           "runtimeMinutes": 96
         }
       ]
