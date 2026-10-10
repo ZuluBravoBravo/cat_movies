@@ -1,29 +1,7 @@
 {
-  "generatedAt": "2026-10-09T20:32:22.381Z",
+  "generatedAt": "2026-10-10T00:28:50.641Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-10-09",
-      "label": "Friday, October 9",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-09",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "stop-that-train",
-          "title": "Stop! That! Train!",
-          "url": "https://www.catamountarts.org/show/details/stop-that-train/",
-          "dateKey": "2026-10-09",
-          "time": "7:30 pm",
-          "runtimeMinutes": 90
-        }
-      ]
-    },
     {
       "date": "2026-10-10",
       "label": "Saturday, October 10",
@@ -116,6 +94,20 @@
           "url": "https://www.catamountarts.org/show/details/tony/",
           "dateKey": "2026-10-15",
           "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-10-18",
+      "label": "Sunday, October 18",
+      "movies": [
+        {
+          "slug": "tony",
+          "title": "Tony",
+          "url": "https://www.catamountarts.org/show/details/tony/",
+          "dateKey": "2026-10-18",
+          "time": "1:30 pm",
           "runtimeMinutes": 106
         }
       ]
@@ -279,29 +271,23 @@
       ]
     },
     {
-      "date": "2026-11-06",
-      "label": "Friday, November 6",
+      "date": "2026-11-11",
+      "label": "Wednesday, November 11",
       "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-06",
-          "time": "7:00 pm",
+          "dateKey": "2026-11-11",
+          "time": "1:30 pm",
           "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "label": "Saturday, November 7",
-      "movies": [
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-07",
-          "time": "5:00 pm",
+          "dateKey": "2026-11-11",
+          "time": "7:00 pm",
           "runtimeMinutes": 106
         }
       ]
