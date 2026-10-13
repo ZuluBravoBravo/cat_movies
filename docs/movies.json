@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T16:14:31.020Z",
+  "generatedAt": "2026-10-13T21:25:04.200Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -125,42 +125,6 @@
       ]
     },
     {
-      "date": "2026-10-24",
-      "label": "Saturday, October 24",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-24",
-          "time": "5:00 pm",
-          "runtimeMinutes": 96
-        },
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-24",
-          "time": "7:00 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "label": "Sunday, October 25",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-25",
-          "time": "1:30 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
       "date": "2026-10-28",
       "label": "Wednesday, October 28",
       "movies": [
@@ -211,6 +175,42 @@
       ]
     },
     {
+      "date": "2026-10-31",
+      "label": "Saturday, October 31",
+      "movies": [
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-10-31",
+          "time": "5:00 pm",
+          "runtimeMinutes": 96
+        },
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-10-31",
+          "time": "7:00 pm",
+          "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-01",
+      "label": "Sunday, November 1",
+      "movies": [
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-01",
+          "time": "1:30 pm",
+          "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
       "date": "2026-11-04",
       "label": "Wednesday, November 4",
       "movies": [
@@ -243,6 +243,134 @@
           "dateKey": "2026-11-05",
           "time": "7:00 pm",
           "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-07",
+      "label": "Saturday, November 7",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-07",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "label": "Sunday, November 8",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-08",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-11",
+      "label": "Wednesday, November 11",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-11",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-11",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-12",
+      "label": "Thursday, November 12",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-12",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-13",
+      "label": "Friday, November 13",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-13",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-14",
+      "label": "Saturday, November 14",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-14",
+          "time": "5:00 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-14",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "label": "Sunday, November 15",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-15",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "label": "Wednesday, November 18",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-18",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
         }
       ]
     },
@@ -343,34 +471,86 @@
           "dateKey": "2026-11-28",
           "time": "5:00 pm",
           "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-12-02",
-      "label": "Wednesday, December 2",
-      "movies": [
+        },
         {
           "slug": "the-history-of-concrete",
           "title": "The History of Concrete",
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-12-02",
+          "dateKey": "2026-11-28",
           "time": "7:00 pm",
           "runtimeMinutes": 101
         }
       ]
     },
     {
-      "date": "2026-12-03",
-      "label": "Thursday, December 3",
+      "date": "2026-11-29",
+      "label": "Sunday, November 29",
       "movies": [
         {
           "slug": "the-history-of-concrete",
           "title": "The History of Concrete",
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-12-03",
-          "time": "7:00 pm",
+          "dateKey": "2026-11-29",
+          "time": "1:30 pm",
           "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2027-01-15",
+      "label": "Friday, January 15",
+      "movies": [
+        {
+          "slug": "the-airways-belonged-to-the-people-wbcn-and-the-american-revolution",
+          "title": "The Airways Belonged to the People: WBCN and The American Revolution",
+          "url": "https://www.catamountarts.org/show/details/the-airways-belonged-to-the-people-wbcn-and-the-american-revolution/",
+          "dateKey": "2027-01-15",
+          "time": "1:30 pm",
+          "runtimeMinutes": 119
+        },
+        {
+          "slug": "the-airways-belonged-to-the-people-wbcn-and-the-american-revolution",
+          "title": "The Airways Belonged to the People: WBCN and The American Revolution",
+          "url": "https://www.catamountarts.org/show/details/the-airways-belonged-to-the-people-wbcn-and-the-american-revolution/",
+          "dateKey": "2027-01-15",
+          "time": "4:00 pm",
+          "runtimeMinutes": 119
+        }
+      ]
+    },
+    {
+      "date": "2027-01-16",
+      "label": "Saturday, January 16",
+      "movies": [
+        {
+          "slug": "the-airways-belonged-to-the-people-wbcn-and-the-american-revolution",
+          "title": "The Airways Belonged to the People: WBCN and The American Revolution",
+          "url": "https://www.catamountarts.org/show/details/the-airways-belonged-to-the-people-wbcn-and-the-american-revolution/",
+          "dateKey": "2027-01-16",
+          "time": "1:30 pm",
+          "runtimeMinutes": 119
+        },
+        {
+          "slug": "the-airways-belonged-to-the-people-wbcn-and-the-american-revolution",
+          "title": "The Airways Belonged to the People: WBCN and The American Revolution",
+          "url": "https://www.catamountarts.org/show/details/the-airways-belonged-to-the-people-wbcn-and-the-american-revolution/",
+          "dateKey": "2027-01-16",
+          "time": "4:00 pm",
+          "runtimeMinutes": 119
+        }
+      ]
+    },
+    {
+      "date": "2027-01-17",
+      "label": "Sunday, January 17",
+      "movies": [
+        {
+          "slug": "the-airways-belonged-to-the-people-wbcn-and-the-american-revolution",
+          "title": "The Airways Belonged to the People: WBCN and The American Revolution",
+          "url": "https://www.catamountarts.org/show/details/the-airways-belonged-to-the-people-wbcn-and-the-american-revolution/",
+          "dateKey": "2027-01-17",
+          "time": "3:30 pm",
+          "runtimeMinutes": 119
         }
       ]
     }
