@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:11:11.483Z",
+  "generatedAt": "2026-10-15T11:54:12.190Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -153,23 +153,17 @@
       ]
     },
     {
-      "date": "2026-10-28",
-      "label": "Wednesday, October 28",
+      "date": "2026-10-31",
+      "label": "Saturday, October 31",
       "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-28",
-          "time": "1:30 pm",
+          "dateKey": "2026-10-31",
+          "time": "5:00 pm",
           "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
-      "date": "2026-10-31",
-      "label": "Saturday, October 31",
-      "movies": [
+        },
         {
           "slug": "late-fame",
           "title": "Late Fame",
@@ -331,28 +325,22 @@
       ]
     },
     {
-      "date": "2026-11-18",
-      "label": "Wednesday, November 18",
+      "date": "2026-11-14",
+      "label": "Saturday, November 14",
       "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "7:00 pm",
+          "dateKey": "2026-11-14",
+          "time": "5:00 pm",
           "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, November 19",
-      "movies": [
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-19",
+          "dateKey": "2026-11-14",
           "time": "7:00 pm",
           "runtimeMinutes": 106
         }
