@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-10-16T19:38:10.495Z",
+  "generatedAt": "2026-10-16T22:30:25.072Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-10-16",
-      "label": "Friday, October 16",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-16",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
     {
       "date": "2026-10-17",
       "label": "Saturday, October 17",
@@ -199,12 +185,18 @@
           "dateKey": "2026-10-31",
           "time": "5:00 pm",
           "runtimeMinutes": 96
-        },
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thursday, November 5",
+      "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-31",
+          "dateKey": "2026-11-05",
           "time": "7:00 pm",
           "runtimeMinutes": 96
         }
