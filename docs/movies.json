@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-10-18T12:29:21.811Z",
+  "generatedAt": "2026-10-18T16:05:31.775Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-10-18",
-      "label": "Sunday, October 18",
-      "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-18",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
     {
       "date": "2026-10-21",
       "label": "Wednesday, October 21",
@@ -89,56 +75,6 @@
       ]
     },
     {
-      "date": "2026-10-25",
-      "label": "Sunday, October 25",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-25",
-          "time": "1:30 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "label": "Wednesday, October 28",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-28",
-          "time": "1:30 pm",
-          "runtimeMinutes": 96
-        },
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-28",
-          "time": "7:00 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
-      "date": "2026-10-29",
-      "label": "Thursday, October 29",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-10-29",
-          "time": "7:00 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
-    {
       "date": "2026-10-30",
       "label": "Friday, October 30",
       "movies": [
@@ -175,38 +111,52 @@
       ]
     },
     {
-      "date": "2026-11-06",
-      "label": "Friday, November 6",
+      "date": "2026-11-01",
+      "label": "Sunday, November 1",
       "movies": [
         {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-06",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-01",
+          "time": "1:30 pm",
+          "runtimeMinutes": 96
         }
       ]
     },
     {
-      "date": "2026-11-07",
-      "label": "Saturday, November 7",
+      "date": "2026-11-04",
+      "label": "Wednesday, November 4",
       "movies": [
         {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-07",
-          "time": "5:00 pm",
-          "runtimeMinutes": 106
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-04",
+          "time": "1:30 pm",
+          "runtimeMinutes": 96
         },
         {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-07",
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-04",
           "time": "7:00 pm",
-          "runtimeMinutes": 106
+          "runtimeMinutes": 96
+        }
+      ]
+    },
+    {
+      "date": "2026-11-05",
+      "label": "Thursday, November 5",
+      "movies": [
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-11-05",
+          "time": "7:00 pm",
+          "runtimeMinutes": 96
         }
       ]
     },
@@ -297,6 +247,42 @@
       ]
     },
     {
+      "date": "2026-11-15",
+      "label": "Sunday, November 15",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-15",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-18",
+      "label": "Wednesday, November 18",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-18",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-18",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
       "date": "2026-11-20",
       "label": "Friday, November 20",
       "movies": [
@@ -327,42 +313,6 @@
           "title": "The History of Concrete",
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
           "dateKey": "2026-11-21",
-          "time": "7:00 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-11-22",
-      "label": "Sunday, November 22",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-22",
-          "time": "1:30 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-11-25",
-      "label": "Wednesday, November 25",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-25",
-          "time": "1:30 pm",
-          "runtimeMinutes": 101
-        },
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-25",
           "time": "7:00 pm",
           "runtimeMinutes": 101
         }
@@ -414,6 +364,42 @@
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
           "dateKey": "2026-11-29",
           "time": "1:30 pm",
+          "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "label": "Wednesday, December 2",
+      "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-12-02",
+          "time": "1:30 pm",
+          "runtimeMinutes": 101
+        },
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-12-02",
+          "time": "7:00 pm",
+          "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2026-12-03",
+      "label": "Thursday, December 3",
+      "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-12-03",
+          "time": "7:00 pm",
           "runtimeMinutes": 101
         }
       ]
