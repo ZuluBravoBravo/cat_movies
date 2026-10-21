@@ -1,19 +1,11 @@
 {
-  "generatedAt": "2026-10-21T11:09:26.800Z",
+  "generatedAt": "2026-10-21T16:02:04.464Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
       "date": "2026-10-21",
       "label": "Wednesday, October 21",
       "movies": [
-        {
-          "slug": "tony",
-          "title": "Tony",
-          "url": "https://www.catamountarts.org/show/details/tony/",
-          "dateKey": "2026-10-21",
-          "time": "1:30 pm",
-          "runtimeMinutes": 106
-        },
         {
           "slug": "tony",
           "title": "Tony",
