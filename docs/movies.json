@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:02:04.464Z",
+  "generatedAt": "2026-10-21T20:17:11.967Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -117,36 +117,36 @@
       ]
     },
     {
-      "date": "2026-11-04",
-      "label": "Wednesday, November 4",
+      "date": "2026-10-30",
+      "label": "Friday, October 30",
       "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-04",
-          "time": "1:30 pm",
-          "runtimeMinutes": 96
-        },
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-04",
+          "dateKey": "2026-10-30",
           "time": "7:00 pm",
           "runtimeMinutes": 96
         }
       ]
     },
     {
-      "date": "2026-11-05",
-      "label": "Thursday, November 5",
+      "date": "2026-10-31",
+      "label": "Saturday, October 31",
       "movies": [
         {
           "slug": "late-fame",
           "title": "Late Fame",
           "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-05",
+          "dateKey": "2026-10-31",
+          "time": "5:00 pm",
+          "runtimeMinutes": 96
+        },
+        {
+          "slug": "late-fame",
+          "title": "Late Fame",
+          "url": "https://www.catamountarts.org/show/details/late-fame/",
+          "dateKey": "2026-10-31",
           "time": "7:00 pm",
           "runtimeMinutes": 96
         }
