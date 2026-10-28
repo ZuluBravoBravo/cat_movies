@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T23:54:38.904Z",
+  "generatedAt": "2026-10-28T03:56:54.378Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -125,15 +125,29 @@
       ]
     },
     {
-      "date": "2026-11-06",
-      "label": "Friday, November 6",
+      "date": "2026-11-07",
+      "label": "Saturday, November 7",
       "movies": [
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-06",
+          "dateKey": "2026-11-07",
           "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-08",
+      "label": "Sunday, November 8",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-08",
+          "time": "1:30 pm",
           "runtimeMinutes": 106
         }
       ]
@@ -142,6 +156,14 @@
       "date": "2026-11-11",
       "label": "Wednesday, November 11",
       "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-11",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
@@ -227,28 +249,6 @@
           "dateKey": "2026-11-18",
           "time": "1:30 pm",
           "runtimeMinutes": 106
-        },
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, November 19",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-19",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
         }
       ]
     },
@@ -329,6 +329,28 @@
           "dateKey": "2026-11-25",
           "time": "1:30 pm",
           "runtimeMinutes": 101
+        },
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-25",
+          "time": "7:00 pm",
+          "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2026-11-27",
+      "label": "Friday, November 27",
+      "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-27",
+          "time": "7:00 pm",
+          "runtimeMinutes": 101
         }
       ]
     },
@@ -336,6 +358,14 @@
       "date": "2026-11-28",
       "label": "Saturday, November 28",
       "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-28",
+          "time": "5:00 pm",
+          "runtimeMinutes": 101
+        },
         {
           "slug": "the-history-of-concrete",
           "title": "The History of Concrete",
@@ -356,42 +386,6 @@
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
           "dateKey": "2026-11-29",
           "time": "1:30 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-12-02",
-      "label": "Wednesday, December 2",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-12-02",
-          "time": "1:30 pm",
-          "runtimeMinutes": 101
-        },
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-12-02",
-          "time": "7:00 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-12-03",
-      "label": "Thursday, December 3",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-12-03",
-          "time": "7:00 pm",
           "runtimeMinutes": 101
         }
       ]
