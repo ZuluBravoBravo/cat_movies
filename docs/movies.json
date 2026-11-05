@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-11-05T17:09:20.730Z",
+  "generatedAt": "2026-11-05T22:45:17.177Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-11-05",
-      "label": "Thursday, November 5",
-      "movies": [
-        {
-          "slug": "late-fame",
-          "title": "Late Fame",
-          "url": "https://www.catamountarts.org/show/details/late-fame/",
-          "dateKey": "2026-11-05",
-          "time": "7:00 pm",
-          "runtimeMinutes": 96
-        }
-      ]
-    },
     {
       "date": "2026-11-06",
       "label": "Friday, November 6",
@@ -163,22 +149,6 @@
           "dateKey": "2026-11-21",
           "time": "4:00 pm",
           "runtimeMinutes": null
-        },
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-21",
-          "time": "5:00 pm",
-          "runtimeMinutes": 101
-        },
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-21",
-          "time": "7:00 pm",
-          "runtimeMinutes": 101
         }
       ]
     },
@@ -186,14 +156,6 @@
       "date": "2026-11-22",
       "label": "Sunday, November 22",
       "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-22",
-          "time": "1:30 pm",
-          "runtimeMinutes": 101
-        },
         {
           "slug": "every-day-big-and-small-st-johnsbury",
           "title": "Every Day: Big and Small – St. Johnsbury",
@@ -257,6 +219,42 @@
           "title": "The History of Concrete",
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
           "dateKey": "2026-11-28",
+          "time": "7:00 pm",
+          "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2026-11-29",
+      "label": "Sunday, November 29",
+      "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-29",
+          "time": "1:30 pm",
+          "runtimeMinutes": 101
+        }
+      ]
+    },
+    {
+      "date": "2026-12-02",
+      "label": "Wednesday, December 2",
+      "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-12-02",
+          "time": "1:30 pm",
+          "runtimeMinutes": 101
+        },
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-12-02",
           "time": "7:00 pm",
           "runtimeMinutes": 101
         }
