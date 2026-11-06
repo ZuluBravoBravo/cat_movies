@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-11-06T18:12:55.788Z",
+  "generatedAt": "2026-11-06T23:22:56.878Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-11-06",
-      "label": "Friday, November 6",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-06",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
     {
       "date": "2026-11-07",
       "label": "Saturday, November 7",
@@ -89,6 +75,34 @@
       ]
     },
     {
+      "date": "2026-11-13",
+      "label": "Friday, November 13",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-13",
+          "time": "7:00 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
+      "date": "2026-11-15",
+      "label": "Sunday, November 15",
+      "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-15",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "label": "Wednesday, November 18",
       "movies": [
@@ -98,28 +112,6 @@
           "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
           "dateKey": "2026-11-18",
           "time": "1:30 pm",
-          "runtimeMinutes": 106
-        },
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-18",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "label": "Thursday, November 19",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-19",
-          "time": "7:00 pm",
           "runtimeMinutes": 106
         }
       ]
@@ -149,6 +141,22 @@
           "dateKey": "2026-11-21",
           "time": "4:00 pm",
           "runtimeMinutes": null
+        },
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-21",
+          "time": "5:00 pm",
+          "runtimeMinutes": 101
+        },
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-21",
+          "time": "7:00 pm",
+          "runtimeMinutes": 101
         }
       ]
     },
@@ -156,6 +164,14 @@
       "date": "2026-11-22",
       "label": "Sunday, November 22",
       "movies": [
+        {
+          "slug": "the-history-of-concrete",
+          "title": "The History of Concrete",
+          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
+          "dateKey": "2026-11-22",
+          "time": "1:30 pm",
+          "runtimeMinutes": 101
+        },
         {
           "slug": "every-day-big-and-small-st-johnsbury",
           "title": "Every Day: Big and Small – St. Johnsbury",
@@ -183,42 +199,6 @@
           "title": "The History of Concrete",
           "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
           "dateKey": "2026-11-25",
-          "time": "7:00 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-11-27",
-      "label": "Friday, November 27",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-27",
-          "time": "7:00 pm",
-          "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-11-28",
-      "label": "Saturday, November 28",
-      "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-28",
-          "time": "5:00 pm",
-          "runtimeMinutes": 101
-        },
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-28",
           "time": "7:00 pm",
           "runtimeMinutes": 101
         }
@@ -271,20 +251,6 @@
           "dateKey": "2026-12-03",
           "time": "7:00 pm",
           "runtimeMinutes": 101
-        }
-      ]
-    },
-    {
-      "date": "2026-12-04",
-      "label": "Friday, December 4",
-      "movies": [
-        {
-          "slug": "wicker",
-          "title": "Wicker",
-          "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-04",
-          "time": "7:00 pm",
-          "runtimeMinutes": 105
         }
       ]
     },
@@ -385,19 +351,27 @@
           "dateKey": "2026-12-12",
           "time": "5:00 pm",
           "runtimeMinutes": 105
+        },
+        {
+          "slug": "wicker",
+          "title": "Wicker",
+          "url": "https://www.catamountarts.org/show/details/wicker/",
+          "dateKey": "2026-12-12",
+          "time": "7:00 pm",
+          "runtimeMinutes": 105
         }
       ]
     },
     {
-      "date": "2026-12-17",
-      "label": "Thursday, December 17",
+      "date": "2026-12-13",
+      "label": "Sunday, December 13",
       "movies": [
         {
           "slug": "wicker",
           "title": "Wicker",
           "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-17",
-          "time": "7:00 pm",
+          "dateKey": "2026-12-13",
+          "time": "1:30 pm",
           "runtimeMinutes": 105
         }
       ]
