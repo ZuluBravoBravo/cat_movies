@@ -1,21 +1,7 @@
 {
-  "generatedAt": "2026-11-07T20:24:07.030Z",
+  "generatedAt": "2026-11-07T23:47:38.280Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
-    {
-      "date": "2026-11-07",
-      "label": "Saturday, November 7",
-      "movies": [
-        {
-          "slug": "the-work-in-progress",
-          "title": "The Work in Progress",
-          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
-          "dateKey": "2026-11-07",
-          "time": "7:00 pm",
-          "runtimeMinutes": 106
-        }
-      ]
-    },
     {
       "date": "2026-11-08",
       "label": "Sunday, November 8",
@@ -98,6 +84,14 @@
       "date": "2026-11-18",
       "label": "Wednesday, November 18",
       "movies": [
+        {
+          "slug": "the-work-in-progress",
+          "title": "The Work in Progress",
+          "url": "https://www.catamountarts.org/show/details/the-work-in-progress/",
+          "dateKey": "2026-11-18",
+          "time": "1:30 pm",
+          "runtimeMinutes": 106
+        },
         {
           "slug": "the-work-in-progress",
           "title": "The Work in Progress",
@@ -275,42 +269,6 @@
       ]
     },
     {
-      "date": "2026-12-05",
-      "label": "Saturday, December 5",
-      "movies": [
-        {
-          "slug": "wicker",
-          "title": "Wicker",
-          "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-05",
-          "time": "5:00 pm",
-          "runtimeMinutes": 105
-        },
-        {
-          "slug": "wicker",
-          "title": "Wicker",
-          "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-05",
-          "time": "7:00 pm",
-          "runtimeMinutes": 105
-        }
-      ]
-    },
-    {
-      "date": "2026-12-06",
-      "label": "Sunday, December 6",
-      "movies": [
-        {
-          "slug": "wicker",
-          "title": "Wicker",
-          "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-06",
-          "time": "1:30 pm",
-          "runtimeMinutes": 105
-        }
-      ]
-    },
-    {
       "date": "2026-12-09",
       "label": "Wednesday, December 9",
       "movies": [
@@ -319,14 +277,56 @@
           "title": "Wicker",
           "url": "https://www.catamountarts.org/show/details/wicker/",
           "dateKey": "2026-12-09",
-          "time": "1:30 pm",
+          "time": "7:00 pm",
+          "runtimeMinutes": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-12-10",
+      "label": "Thursday, December 10",
+      "movies": [
+        {
+          "slug": "wicker",
+          "title": "Wicker",
+          "url": "https://www.catamountarts.org/show/details/wicker/",
+          "dateKey": "2026-12-10",
+          "time": "7:00 pm",
+          "runtimeMinutes": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-12-11",
+      "label": "Friday, December 11",
+      "movies": [
+        {
+          "slug": "wicker",
+          "title": "Wicker",
+          "url": "https://www.catamountarts.org/show/details/wicker/",
+          "dateKey": "2026-12-11",
+          "time": "7:00 pm",
+          "runtimeMinutes": 105
+        }
+      ]
+    },
+    {
+      "date": "2026-12-12",
+      "label": "Saturday, December 12",
+      "movies": [
+        {
+          "slug": "wicker",
+          "title": "Wicker",
+          "url": "https://www.catamountarts.org/show/details/wicker/",
+          "dateKey": "2026-12-12",
+          "time": "5:00 pm",
           "runtimeMinutes": 105
         },
         {
           "slug": "wicker",
           "title": "Wicker",
           "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-09",
+          "dateKey": "2026-12-12",
           "time": "7:00 pm",
           "runtimeMinutes": 105
         }
