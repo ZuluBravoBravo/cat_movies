@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T17:12:05.333Z",
+  "generatedAt": "2026-11-08T21:17:54.940Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
@@ -241,36 +241,36 @@
       ]
     },
     {
-      "date": "2026-12-09",
-      "label": "Wednesday, December 9",
+      "date": "2026-12-04",
+      "label": "Friday, December 4",
       "movies": [
         {
           "slug": "wicker",
           "title": "Wicker",
           "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-09",
-          "time": "1:30 pm",
-          "runtimeMinutes": 105
-        },
-        {
-          "slug": "wicker",
-          "title": "Wicker",
-          "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-09",
+          "dateKey": "2026-12-04",
           "time": "7:00 pm",
           "runtimeMinutes": 105
         }
       ]
     },
     {
-      "date": "2026-12-10",
-      "label": "Thursday, December 10",
+      "date": "2026-12-05",
+      "label": "Saturday, December 5",
       "movies": [
         {
           "slug": "wicker",
           "title": "Wicker",
           "url": "https://www.catamountarts.org/show/details/wicker/",
-          "dateKey": "2026-12-10",
+          "dateKey": "2026-12-05",
+          "time": "5:00 pm",
+          "runtimeMinutes": 105
+        },
+        {
+          "slug": "wicker",
+          "title": "Wicker",
+          "url": "https://www.catamountarts.org/show/details/wicker/",
+          "dateKey": "2026-12-05",
           "time": "7:00 pm",
           "runtimeMinutes": 105
         }
