@@ -1,19 +1,11 @@
 {
-  "generatedAt": "2026-11-25T12:06:36.252Z",
+  "generatedAt": "2026-11-25T21:54:23.906Z",
   "source": "https://www.catamountarts.org/shows/by-genre/film/",
   "days": [
     {
       "date": "2026-11-25",
       "label": "Wednesday, November 25",
       "movies": [
-        {
-          "slug": "the-history-of-concrete",
-          "title": "The History of Concrete",
-          "url": "https://www.catamountarts.org/show/details/the-history-of-concrete/",
-          "dateKey": "2026-11-25",
-          "time": "1:30 pm",
-          "runtimeMinutes": 101
-        },
         {
           "slug": "the-history-of-concrete",
           "title": "The History of Concrete",
